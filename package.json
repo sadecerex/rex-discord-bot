@@ -1,0 +1,14 @@
+{
+  "name": "disiuzmani-discord-bot",
+  "version": "1.0.0",
+  "description": "disiuzmani - Discord Sunucusu Toplu İşlemler",
+  "main": "hazreti.js",
+  "scripts": {
+    "start": "node hazreti.js"
+  },
+  "author": "disiuzmani",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
