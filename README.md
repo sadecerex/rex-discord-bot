@@ -15,4 +15,4 @@ KOMUTLAR LİSTELİ ŞEKİLDEDİR ÇALIŞTIRMAK İSTEDİĞİNİZ KOMUTU , "node k
 
 
 
-© 2024 - Dişi Uzmanı | [instagram](https://instagram.com/disiuzmani) | [discord](disiuzmani) 
+© 2024 - Dişi Uzmanı | [instagram](https://instagram.com/disiuzmani) | [discord](https://discord.com/users/274549490235736075) 
