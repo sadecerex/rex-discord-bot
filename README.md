@@ -5,6 +5,8 @@ CONFİG.JSON DOSYASINDAKİ KISIMLARI GÜZELCE DOLDURUN (SONRA BOT ÇALIŞMIYOR K
 
 KOMUTLAR LİSTELİ ŞEKİLDEDİR ÇALIŞTIRMAK İSTEDİĞİNİZ KOMUTU , "node komutismi.js" şeklinde çalıştırabilirsiniz.
 
+BOTU KULLANABİLİRSİNİZ AMA SAĞDA SOLDA BEN YAZDIM DİYE GEZMEYİN XD
+
 
 ### Geliştirici Kadrosu
 |Rolü             |User (discord name)|
