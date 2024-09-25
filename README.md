@@ -11,10 +11,10 @@ BOTU KULLANABİLİRSİNİZ AMA SAĞDA SOLDA BEN YAZDIM DİYE GEZMEYİN XD
 ### Geliştirici Kadrosu
 |Rolü             |User (discord name)|
 |-----------------|-------------------|
-|Developer        |disiuzmani         |
-|Yardımcı Dev.    |disikolog10ur      |
+|Developer        |sadecerex         |
+|Yardımcı Dev.    |she6z      |
 
 
 
 
-© 2024 - Dişi Uzmanı | [instagram](https://instagram.com/disiuzmani) | [discord](https://discord.com/users/274549490235736075) 
+© 2024 - Sadecerex | [instagram](https://instagram.com/) | [discord](https://discord.com/users/274549490235736075) 
